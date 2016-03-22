@@ -8,3 +8,5 @@ Everything about this project is written here.
 Expect more
 
 I should learn GIT!!! Or maybe not.
+
+I like clowns.
