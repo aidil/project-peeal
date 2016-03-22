@@ -10,3 +10,5 @@ Expect more
 I should learn GIT!!! Or maybe not.
 
 I like clowns.
+
+We should all learn GIT. Its good for health.
